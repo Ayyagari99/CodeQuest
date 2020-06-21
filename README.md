@@ -1,8 +1,8 @@
 # CODE QUEST!
 
 CodeQuest is a web based treasure hunt developed with HTML, CSS and Javascript. The game has five levels. Each levels has the following parts:\
-1)A Data Structures and Algorithm based question.\ 
-2)A riddle which will lead the participant to a location.\ 
+1)A Data Structures and Algorithm based question\ 
+2)A riddle which will lead the participant to a location\ 
 At the location, a QR code is hidden which when scanned displays an Avengers-themed question. The answer to this question has to be entered in order to proceed to the next level\
 
 The team which solves maximum number of questions in minimum time is the clear winner. This game was successfully hosted for about 150 participants.
