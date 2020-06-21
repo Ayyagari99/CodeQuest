@@ -6,7 +6,8 @@ CodeQuest is a web based treasure hunt developed with HTML, CSS and Javascript. 
 2)A riddle which will lead the participant to a location <br />
 At the location, a QR code is hidden which when scanned displays an Avengers-themed question. The answer to this question has to be entered in order to proceed to the next level<br />
 
-The team which solves maximum number of questions in minimum time is the clear winner. This game was successfully hosted for about 150 participants.
+The team which solves maximum number of questions in minimum time is the clear winner. <br /> 
+This game was successfully hosted for about 150 participants.
  
  # In Action:
 ![Main_page](cd2.png)
@@ -28,7 +29,7 @@ Srinidhi Ayyagari (JAVASCRIPT)<br />
 Ruchika Swain (ANDROID APP to scan the secret QR codes)<br />
 
 # Acknowledgement:
-Would like to thank Innerve'19 for providing us the platform to host the same.
+Would like to thank Innerve'19 for providing us the platform to host Code Quest!
 
 # A small catch:
 Pressing 'Enter' will not submit the answers. <br /> 
