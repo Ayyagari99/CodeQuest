@@ -30,5 +30,7 @@ Ruchika Swain (ANDROID APP to scan the secret QR codes)<br />
 Would like to thank Innerve'19 for providing us the platform to host the same.
 
 # A small catch:
-Pressing 'Enter' will not submit the answers. 
+Pressing 'Enter' will not submit the answers. <br \> 
+The timer was specific to the day the Code Quest was held, so it won't work. <br \>
+(Nevertheless, Code Quest can still be played without the timer) 
 
